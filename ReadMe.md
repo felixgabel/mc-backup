@@ -6,6 +6,8 @@ On Mac, the important data to copy for a minecraft backup are located in `~/Libr
 
 `mods/`: All your .jar mod files.
 
+`instances/`: optional, if you want to have individual instances.
+
 `options.txt`: Your vanilla game settings (FOV, keybinds, etc.).
 
 `resourcepacks/`: Your texture and resource packs.
