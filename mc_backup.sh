@@ -8,6 +8,7 @@ mkdir -p "$DST"
 
 DIRS=(
     config
+    instances
     mods
     resourcepacks
     saves
